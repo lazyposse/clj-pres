@@ -2,10 +2,10 @@
 
 Material for a clojure presentation with 4clojure.com as a support.
 
-The final picture is in =build/prez.png=, please check it before
+The final picture is in =build/prez.png=, please [[https://github.com/denlab/clj-pres/raw/master/4clojure-oriented-prez/build/prez.png][check it]] before
 anything else.
 
-The final image is intended to be viewed with prezi.com, it will allow
+The final image is intended to be viewed with [[prezi.com]], it will allow
 to build a path of the viewing of the image in advance (zooming,
 dezooming, ...).
 
