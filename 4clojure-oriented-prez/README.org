@@ -1,0 +1,34 @@
+* What's this?
+
+Material for a clojure presentation with 4clojure.com as a support.
+
+The final picture is in =build/prez.png=, please check it before
+anything else.
+
+The final image is intended to be viewed with prezi.com, it will allow
+to build a path of the viewing of the image in advance (zooming,
+dezooming, ...).
+
+To get an idea of what it could look like, check a previous
+presentation of mine
+http://prezi.com/kdsbpq1t8dm8/jenkins-cleanup-2/. It was done exacly
+with the same process than this presentation: All authoring in yed +
+prezi at the end for the viewing.
+
+* How to use the sources? 
+
+In order to edit the doc, you need: 
+
+- [[http://www.yworks.com/en/products_yed_about.html][yEd]]
+
+- Install yEd, launch it.
+
+- Import the custom palette in it: =src/prez.clj.yed.palette.graphml=.
+
+- Then open =src/prez.graphml=, you should be able to edit it.
+
+* Notes
+
+- Please note that there is a image diffing functionality in github,
+  that allow to check the difference between versions of an image. We
+  should use it!
