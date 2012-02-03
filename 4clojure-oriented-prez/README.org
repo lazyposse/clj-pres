@@ -33,7 +33,7 @@ In order to edit the doc, you need:
   that allow to check the difference between versions of an image. We
   should use it!
 
-* TODO [0%]
+* Stuff to do  [0%]
 
 ** TODO primitive types: show analogy with Java
 
