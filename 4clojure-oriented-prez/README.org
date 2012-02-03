@@ -15,8 +15,6 @@ with the same process than this presentation:
 - All authoring in done in yEd
 - And then build the view path in prezi 
 
-prezi at the end for the viewing.
-
 * How to use the sources? 
 
 In order to edit the doc, you need: 
