@@ -156,3 +156,10 @@ the end of the presentation, because:
 ** TODO We need a online repl 
 
 For the people to experiment online !
+
+
+** TODO We should provide some kind of support for the newbies
+
+"Please don't easitate to email us to get help if you get stuck"
+
+"maybee point to the clojure paris user group"
