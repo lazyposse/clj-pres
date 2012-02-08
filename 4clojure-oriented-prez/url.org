@@ -1,0 +1,15 @@
+List of useful urls.
+
+* [[http://www.4clojure.com/][4clojure]]
+Learning clojure the funniest way ever
+* Doc
+** [[http://clojuredocs.org/][clojuredocs]]
+Doc to know how to use a function.
+** [[http://www.clojureatlas.com/][clojureatlas]]
+Search contextually functions
+* Utilities
+** [[http://tryclj.com/][web REPL]]
+Feeback!!!
+* Understanding clojure
+To understand the thought process that led to clojure!!!
+[[http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey][Are we there yet, Rich Hikey]]
