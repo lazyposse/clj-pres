@@ -49,3 +49,28 @@ it's in french/english (frenglish?) now :)
 
 ** TODO build the path with prezi, and then export it to an exec (will be usefull if there is a network failure)
 
+** TODO better present clojure atlas
+
+- Have a real scenaria that will demonstrate the power of clojure Atlas
+
+  - "Oh, I need to search for this functionnality on list"
+
+  - "Let's check list"
+
+  - "Ho no, it's not a List that I want, it's a vector", or something
+    like that
+
+- It could be integrated in the realisation of a of 4clojure exercice
+
+- Because otherwise it is not obvious that clojure Atlas is really usefull
+
+
+
+** TODO better present clojure docs
+
+See comment for clojure atlas
+
+** TODO Create a github page with all the links that will be shown in the prez
+
+We could even use this repo
+
