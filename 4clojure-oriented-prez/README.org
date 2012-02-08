@@ -86,6 +86,9 @@ Prepare in advance a "demo" of what you could do with clojure with
 Should be a problem that everyone understand, and with a difficulty
 that make it impressive to solve in 5mn.
 
+Also it should be a problem that we could show graphically (ex: conway
+game of life), see below for why.
+
 1) Open a 4clojure exercie
 
 2) Copy the content (docs + tests) in a emacs file
@@ -111,5 +114,14 @@ that make it impressive to solve in 5mn.
 
 11) See the solution of others: and "ahh, I could have done it like
     that ..."
+
+12) Cool we finished, now "wait a minute" we could use this code to
+    display nice gfx: use the code to show an animation in a
+    java.aws.Frame. That way:
+
+    1) It's cool :)
+
+    2) It shows the awsolmly easy interop with java
+
 
 
