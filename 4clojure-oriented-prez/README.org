@@ -129,4 +129,11 @@ the end of the presentation, because:
 - it will be better understood, because people would have fighted to
   solve problems, so they will understand better the lazytest, the
   repl stuff 
+- on the other hand, if we are at the end we will probably a majority
+  of people hooked, and trying to finish the 4clojure exercices, not
+  paying attention to the "super demo". But if it's the case we won
+  anyway :)
 
+
+
+** TODO 
