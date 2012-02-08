@@ -123,5 +123,10 @@ game of life), see below for why.
 
     2) It shows the awsolmly easy interop with java
 
-
+About the timing of this demo: it could be nice to have this demo at
+the end of the presentation, because: 
+- it will leave a "wow" impression of the prez
+- it will be better understood, because people would have fighted to
+  solve problems, so they will understand better the lazytest, the
+  repl stuff 
 
