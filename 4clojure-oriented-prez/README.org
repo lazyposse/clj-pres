@@ -160,9 +160,12 @@ For the people to experiment online !
 
 ** TODO We should provide some kind of support for the newbies
 
-"Please don't easitate to email us to get help if you get stuck"
+- "Please don't easitate to email us to get help if you get stuck"
 
-"maybee point to the clojure paris user group"
+- "maybee point to the clojure paris user group"
+
+- irc ? 
+
 ** TODO we must also tell people to follow strong people
 
 Like cgrand, people that will show standard/canonical solutions
