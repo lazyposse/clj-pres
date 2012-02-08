@@ -187,3 +187,19 @@ standard chart, that we could made public, and hop! done !
 So in fact we don't even need a web server deployed, only a script
 that is triggered every hour (or 5mn or wathefver) and update the
 google spreadsheet
+** TODO pb reset prezi
+** TODO graph 5% syntax 95% tp
+** TODO explain cheminenemtn clj
+
+interop java -> str data simple -> function ...
+** TODO intro syntaxe : et plein de quiestnoin : le reste vous allez le decouvrir dans 4clj
+** TODO et pour la fin : allez voir "are we there yet" (et aussi le rajouter dans le lien github)
+
+
+** for another prez
+
+*** TODO explain eval order
+
+*** TODO explayn symbol / namespace / global context...
+
+
