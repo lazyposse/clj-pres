@@ -169,3 +169,17 @@ For the people to experiment online !
 ** TODO we must also tell people to follow strong people
 
 Like cgrand, people that will show standard/canonical solutions
+** TODO If only we could take ardumont 4clojure spy script
+
+And put it on appengine (with twitalize)
+
+We could show a board of selected people
+
+That should be easy to do 
+
+And if we could only add a little memory, we could draw graph of the
+progression of people
+
+wait a minute, if we use the google spread sheat api, we could use
+google spread sheet as the database, and the graph would juste be a
+standard chart, that we could made public, and hop! done !
