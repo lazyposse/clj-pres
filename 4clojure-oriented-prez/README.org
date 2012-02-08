@@ -71,7 +71,13 @@ See comment for clojure atlas
 
 ** TODO Create a github page with all the links that will be shown in the prez
 
-We could even use this repo
+We could even use this repo.
+
+Links: 
+- 4clojure
+- clojuredocs
+- clojureatals
+- link to the google spreadsheet of all people
 
 ** TODO Prepare a google spreadsheet to store the name of the 4clojure participant
 
@@ -136,4 +142,6 @@ the end of the presentation, because:
 
 
 
-** TODO 
+** TODO We need a online repl 
+
+For the people to experiment online !
