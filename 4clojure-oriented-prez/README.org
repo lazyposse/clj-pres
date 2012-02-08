@@ -78,3 +78,37 @@ We could even use this repo
 That way we will be able to show to everyone during the subscription
 phase, and everybody will be able to follow everybody easilyer
 
+** TODO prepare to solve a 5 mn hard exercise, with all the tools
+
+Prepare in advance a "demo" of what you could do with clojure with
+  the full blown tools (5mn max).
+
+Should be a problem that everyone understand, and with a difficulty
+that make it impressive to solve in 5mn.
+
+1) Open a 4clojure exercie
+
+2) Copy the content (docs + tests) in a emacs file
+
+3) Comment the docs part
+
+4) Convert the 4clojure tests in midje tests (with a macro)
+
+5) launch a lazy test window
+
+6) show that the tests are breaking (normal, you could do a comparison
+   with infinitest)
+
+7) Now pass the tests to =future-fact=, and quicly explain the nice
+   TODO list feature (can even say: "hey it's even better than JUnit's =@Ignore=)
+
+8) Solve the problem quickly
+
+9) Go the 4clojure page
+
+10) Enter the solution
+
+11) See the solution of others: and "ahh, I could have done it like
+    that ..."
+
+
