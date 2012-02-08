@@ -49,3 +49,141 @@ it's in french/english (frenglish?) now :)
 
 ** TODO build the path with prezi, and then export it to an exec (will be usefull if there is a network failure)
 
+** TODO better present clojure atlas
+
+- Have a real scenaria that will demonstrate the power of clojure Atlas
+
+  - "Oh, I need to search for this functionnality on list"
+
+  - "Let's check list"
+
+  - "Ho no, it's not a List that I want, it's a vector", or something
+    like that
+
+- It could be integrated in the realisation of a of 4clojure exercice
+
+- Because otherwise it is not obvious that clojure Atlas is really usefull
+
+
+** TODO better present clojure docs
+
+See comment for clojure atlas
+
+** TODO Create a github page with all the links that will be shown in the prez
+
+We could even use this repo.
+
+Links: 
+- 4clojure
+- clojuredocs
+- clojureatals
+- link to the google spreadsheet of all people
+
+** TODO Prepare a google spreadsheet to store the name of the 4clojure participant
+
+That way we will be able to show to everyone during the subscription
+phase, and everybody will be able to follow everybody easilyer
+
+** TODO prepare to solve an easy problem in a few minute
+
+To demonstrate the usage of 4clojrue / clojure atlas / clojure docs
+
+** TODO show how we handle the source code of 4clojure (github)
+
+We use github, ...
+
+Should we show that ? (cheating, ...)
+
+
+** TODO prepare to solve a 5 mn hard exercise, with all the tools
+
+Prepare in advance a "demo" of what you could do with clojure with
+  the full blown tools (5mn max).
+
+Should be a problem that everyone understand, and with a difficulty
+that make it impressive to solve in 5mn.
+
+Also it should be a problem that we could show graphically (ex: conway
+game of life), see below for why.
+
+1) Open a 4clojure exercie
+
+2) Copy the content (docs + tests) in a emacs file
+
+3) Comment the docs part
+
+4) Convert the 4clojure tests in midje tests (with a macro)
+
+5) launch a lazy test window
+
+6) show that the tests are breaking (normal, you could do a comparison
+   with infinitest)
+
+7) Now pass the tests to =future-fact=, and quicly explain the nice
+   TODO list feature (can even say: "hey it's even better than JUnit's =@Ignore=)
+
+8) Solve the problem quickly: in here it could be nice to use
+   clojuredocs and/or clojureatlas
+
+9) Go the 4clojure page
+
+10) Enter the solution
+
+11) See the solution of others: and "ahh, I could have done it like
+    that ..."
+
+12) Cool we finished, now "wait a minute" we could use this code to
+    display nice gfx: use the code to show an animation in a
+    java.aws.Frame. That way:
+
+    1) It's cool :)
+
+    2) It shows the awsolmly easy interop with java
+
+About the timing of this demo: it could be nice to have this demo at
+the end of the presentation, because: 
+- it will leave a "wow" impression of the prez
+- it will be better understood, because people would have fighted to
+  solve problems, so they will understand better the lazytest, the
+  repl stuff 
+- on the other hand, if we are at the end we will probably a majority
+  of people hooked, and trying to finish the 4clojure exercices, not
+  paying attention to the "super demo". But if it's the case we won
+  anyway :)
+
+
+
+** TODO We need a online repl 
+
+For the people to experiment online !
+
+
+** TODO We should provide some kind of support for the newbies
+
+- "Please don't easitate to email us to get help if you get stuck"
+
+- "maybee point to the clojure paris user group"
+
+- irc ? 
+
+** TODO we must also tell people to follow strong people
+
+Like cgrand, people that will show standard/canonical solutions
+** TODO If only we could take ardumont 4clojure spy script
+
+And put it on appengine (with twitalize)
+
+We could show a board of selected people
+
+That should be easy to do 
+
+And if we could only add a little memory, we could draw graph of the
+progression of people
+
+wait a minute, if we use the google spread sheat api, we could use
+google spread sheet as the database, and the graph would juste be a
+standard chart, that we could made public, and hop! done !
+
+So in fact we don't even need a web server deployed, only a script
+that is triggered every hour (or 5mn or wathefver) and update the
+google spreadsheet
