@@ -183,3 +183,7 @@ progression of people
 wait a minute, if we use the google spread sheat api, we could use
 google spread sheet as the database, and the graph would juste be a
 standard chart, that we could made public, and hop! done !
+
+So in fact we don't even need a web server deployed, only a script
+that is triggered every hour (or 5mn or wathefver) and update the
+google spreadsheet
