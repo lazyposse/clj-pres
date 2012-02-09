@@ -2,6 +2,7 @@ List of useful urls.
 
 * [[http://www.4clojure.com/][4clojure]]
 Learning clojure the funniest way ever
+* [[http://goo.gl/ZKlqI][Follow!!!]]
 * Doc
 ** [[http://clojuredocs.org/][clojuredocs]]
 Doc to know how to use a function.
