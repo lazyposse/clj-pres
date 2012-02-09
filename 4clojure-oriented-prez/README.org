@@ -29,47 +29,14 @@ In order to edit the doc, you need:
 
 * Notes
 
-- Please note that there is a image diffing functionality in github,
-  that allow to check the difference between versions of an image. We
+- Please note that there is an image diffing functionality in github,
+  which allows checking the difference between versions of an image. We
   should use it! It means committing and pushing the final image
   (yes committing a binary: bad! :) to be able to github's diff it.
 
-* Stuff to do  [0%]
-
-** TODO primitive types: show analogy with Java
-
-We can use a slide of a presentation by Stuart Halloway (clojure java
-interop or something like that).
-
-It shows a matrix of the primitive type of clojure/java
-
-** TODO the prez should be in english
-
-it's in french/english (frenglish?) now :)
-
-** TODO build the path with prezi, and then export it to an exec (will be usefull if there is a network failure)
-
-** TODO better present clojure atlas
-
-- Have a real scenaria that will demonstrate the power of clojure Atlas
-
-  - "Oh, I need to search for this functionnality on list"
-
-  - "Let's check list"
-
-  - "Ho no, it's not a List that I want, it's a vector", or something
-    like that
-
-- It could be integrated in the realisation of a of 4clojure exercice
-
-- Because otherwise it is not obvious that clojure Atlas is really usefull
-
-
-** TODO better present clojure docs
-
-See comment for clojure atlas
-
-** TODO Create a github page with all the links that will be shown in the prez
+* Stuff to do  [15%]
+** DONE Create a github page with all the links that will be shown in the prez
+CLOSED: [2012-02-08 mer. 20:38]
 
 We could even use this repo.
 
@@ -78,6 +45,38 @@ Links:
 - clojuredocs
 - clojureatals
 - link to the google spreadsheet of all people
+
+** DONE We need a online repl 
+CLOSED: [2012-02-08 mer. 20:40]
+
+For the people to experiment online ! [[tryclj.com][tryclj]].
+
+** DONE et pour la fin : allez voir "are we there yet" Rich hikey (et aussi le rajouter dans le lien github)
+CLOSED: [2012-02-08 mer. 20:49]
+
+** TODO primitive types: show analogy with Java
+We can use a slide of a presentation by Stuart Halloway (clojure java
+interop or something like that).
+
+It shows a matrix of the primitive type of clojure/java
+
+** TODO the prez should be in english
+it's in french/english (frenglish?) now :)
+
+** TODO build the path with prezi, and then export it to an exec (will be useful if there is a network failure)
+** TODO better present clojure atlas
+
+- Have a real scenario that will demonstrate the power of clojure Atlas
+  - "Oh, I need to search for this functionnality on list"
+  - "Let's check list"
+  - "Ho no, it's not a List that I want, it's a vector", or something
+    like that
+- It could be integrated in the realisation of a 4clojure exercise
+
+- Because otherwise it is not obvious that clojure Atlas is really useful
+
+** TODO better present clojure docs
+See comment for clojure atlas
 
 ** TODO Prepare a google spreadsheet to store the name of the 4clojure participant
 
@@ -92,8 +91,7 @@ To demonstrate the usage of 4clojrue / clojure atlas / clojure docs
 
 We use github, ...
 
-Should we show that ? (cheating, ...)
-
+Should we show that ? Yes we can, if they cheat, that's their problems, not mine.
 
 ** TODO prepare to solve a 5 mn hard exercise, with all the tools
 
@@ -152,25 +150,15 @@ the end of the presentation, because:
   anyway :)
 
 
-
-** TODO We need a online repl 
-
-For the people to experiment online !
-
-
 ** TODO We should provide some kind of support for the newbies
 
-- "Please don't easitate to email us to get help if you get stuck"
-
-- "maybee point to the clojure paris user group"
-
+- "Please don't hesitate to email us to get help if you get stuck"
+- "maybe point to the clojure paris user group"
 - irc ? 
 
 ** TODO we must also tell people to follow strong people
-
-Like cgrand, people that will show standard/canonical solutions
-** TODO If only we could take ardumont 4clojure spy script
-
+Like cgrand, amalloy, people that will show standard/canonical solutions
+** TODO If only we could take ardumont's 4clojure "spy" script
 And put it on appengine (with twitalize)
 
 We could show a board of selected people
@@ -185,19 +173,15 @@ google spread sheet as the database, and the graph would juste be a
 standard chart, that we could made public, and hop! done !
 
 So in fact we don't even need a web server deployed, only a script
-that is triggered every hour (or 5mn or wathefver) and update the
+that is triggered every hour (or 5mn or whatever) and update the
 google spreadsheet
-** TODO pb reset prezi
+** TODO pb reset prezi when opt-out of fullscreen
 ** TODO graph 5% syntax 95% tp
-** TODO explain cheminenemtn clj
-
+** TODO explain cheminements clj
 interop java -> str data simple -> function ...
-** TODO intro syntaxe : et plein de quiestnoin : le reste vous allez le decouvrir dans 4clj
-** TODO et pour la fin : allez voir "are we there yet" (et aussi le rajouter dans le lien github)
-
+** TODO intro syntaxe : et plein de questions : le reste vous allez le decouvrir dans 4clj
 
 ** for another prez
-
 *** TODO explain eval order
 
 *** TODO explayn symbol / namespace / global context...
