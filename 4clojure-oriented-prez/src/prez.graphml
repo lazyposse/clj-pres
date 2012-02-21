@@ -358,7 +358,7 @@
           <y:Geometry height="139.0" width="139.0" x="271.1814994812012" y="555.8596545506871"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="136.369140625" x="1.3154296875" y="143.0">2 notions importantes</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.962890625" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="99.8828125" x="19.55859375" y="143.0">2 main concepts</y:NodeLabel>
           <y:Image alphaImage="true" refid="10"/>
         </y:ImageNode>
       </data>

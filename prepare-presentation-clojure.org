@@ -32,8 +32,26 @@ In our everyday developer life
 - REPL
 * Why Clojure ?
 - addresses these problematics because it was created for that.
-(Are we there yet? - Rich Hikey)
-
+(Are we there yet? - Rich Hikey) perfect balance of idealism (lisp)
+and pragmatism (JVM)
+- Perfect Java interop.
+- Excellent parallel programming primitives (*not* threads)
+- Cure your parenthesophobia !
+  Reading (nested) lists of parenthesis can be *hard* _at first_, but
+  it is simple, really !
+  easing the pain :
+  - Syntax to reduce the number of ():
+    - Code is data (list), but most data is not list (so obviously not
+      code)→[],{},#{}
+    - Context is used for implicit grouping (i.e. of pairs of key, value)
+  - IDE to handle them : 
+    - writing → electric parenthesis
+    - reading → rainbow
+  Only hard at the beginning, but the rewards (*true*
+  meta-programming) lasts forever. 
 * IDE
 *** emacs
+**** electric parenthesis
+**** rainbow
+**** clojure-jack-in
 *** plugin eclise? intellij? - Do not know any as emacs is sufficient
