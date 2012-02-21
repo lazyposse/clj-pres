@@ -8,6 +8,16 @@ Doc to know how to use a function.
 ** [[http://www.clojureatlas.com/][clojureatlas]]
 Search contextually functions
 * Utilities
+[[http://github.com/overtone/live-coding-emacs][overtone live coding emacs setup]] 
+ - clojure-mode
+ - slime
+ - autocomplete
+ - color theme
+ - rainbow parenthesis
+ - undo-tree
+ - REPL syntax highlighting
+ - …
+ 
 ** [[http://tryclj.com/][web REPL]]
 Feeback!!!
 * Understanding clojure
