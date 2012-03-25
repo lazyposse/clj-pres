@@ -1,0 +1,40 @@
+
+* TODO stuff do to do [33%]
+** DONE find some slides
+   stuart java interop
+
+** DONE vm ou pas vm ?
+*** (+) de la vm : pas de perte de temps de setup
+*** (+) snapshot stable
+*** (-) de la vm : impression que ils sont pas partis from scratch
+vm!
+
+** TODO prepare slide
+
+from 1 to 23: a recopier
+
+** TODO prez avec demo en live?
+** TODO setupper la vm [%]
+*** TODO installer eclipse
+*** TODO installer ccw
+*** TODO test standalone -> repl seul
+*** TODO creer un nouveau projet avec midje en dep
+*** TODO tester midje lazytest fonctionne
+*** TODO bonus: check a plugin with a shell in a view eclipse
+*** TODO cheat sheet CCW
+*** TODO check that emacs 24 works in the vm!
+
+** exercice [50%]
+*** DONE find an exercice
+**** labyrinth
+https://gist.github.com/864195
+
+*** TODO resoudre labyrinthe [0%]
+
+**** TODO denis
+**** TODO antoine
+**** TODO enonce du probleme
+
+     Impose-t-on la structure, ...
+
+**** TODO ecrire des tests pour guider ? 
